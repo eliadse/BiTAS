@@ -13,3 +13,5 @@ bin/
 
 # OS junk
 .DS_Store
+.gitignore
+
